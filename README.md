@@ -8,9 +8,9 @@ module.exports = {
   PASS: 'your email password'
 }
 ```
+---
 
-
-#### Compiling the web app
+#### Compiling the web app:
 root directory
 ```npm run server```
 
